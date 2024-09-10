@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.4.0"
+    "vuepress": "^1.9.10"
   },
   "scripts": {
     "build": "vuepress build labs",
